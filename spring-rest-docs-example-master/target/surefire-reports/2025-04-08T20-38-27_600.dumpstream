@@ -1,0 +1,15 @@
+# Created at 2025-04-08T20:38:31.281
+WARNING: A restricted method in java.lang.System has been called
+
+# Created at 2025-04-08T20:38:31.282
+WARNING: java.lang.System::load has been called by org.apache.tomcat.jni.Library in an unnamed module (file:/C:/Users/Laura%20Caballero/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.27/tomcat-embed-core-9.0.27.jar)
+
+# Created at 2025-04-08T20:38:31.282
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+
+# Created at 2025-04-08T20:38:31.283
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+# Created at 2025-04-08T20:38:31.283
+
+
